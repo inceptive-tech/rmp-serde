@@ -12,7 +12,7 @@
 
 [package]
 name = "rmp-serde"
-version = "0.13.8"
+version = "0.13.9"
 authors = ["Evgeny Safronov <division494@gmail.com>"]
 description = "Serde bindings for RMP"
 documentation = "https://docs.rs/rmp-serde"
