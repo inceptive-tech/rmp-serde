@@ -27,8 +27,8 @@ version = "1"
 [dependencies.serde]
 version = "1"
 
-[dependencies.rmp]
-version = "0.8"
+[dependencies]
+rmp = { git = "https://github.com/inceptive-tech/rmp" , tag = "0.8.7"}
 [dev-dependencies.serde_derive]
 version = "1"
 
